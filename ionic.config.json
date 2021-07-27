@@ -1,5 +1,7 @@
 {
   "name": "appcityios",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
